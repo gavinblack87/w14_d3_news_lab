@@ -1,10 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import NewsContainer from './container/NewsContainer.js'
 
 function App() {
   return (
-    
+    <NewsContainer />
   );
 }
 
