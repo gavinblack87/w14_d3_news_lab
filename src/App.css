@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+
+body {
+  background-color: #c7d8c6;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  font-style: garamond;
+  font-style: italic;
+  font-family: serif;
+}
+
+.score {
+  text-align: center;
+}
+
+.article {
+  text-align: center;
+  
+}
